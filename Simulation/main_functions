@@ -1,0 +1,32 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package mygame
+
+def name='Amir72c'
+def first_value
+def second_value
+def final_value
+
+final_value=24*48
+
+println "Hello $final_value!"
+
+def normal_value(first_value,second_value){
+        my_value=first_value*second_value
+        
+        return my_value
+}
+def exp_value(first_value){
+    my_value=first_value-100;
+    return my_value
+}
+
+def uniform_dist(first_value,second_value){
+    if(second_value>second_value)
+    {
+        return 1
+    }
+}
